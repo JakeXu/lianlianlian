@@ -399,4 +399,5 @@ document.documentElement.style.setProperty('--status-bar-height', statusBarHeigh
 2. [移动端 H5 页面适配方案](https://liyucang-git.github.io/2018/04/09/%E7%A7%BB%E5%8A%A8%E7%AB%AFH5%E9%A1%B5%E9%9D%A2%E9%80%82%E9%85%8D%E6%96%B9%E6%A1%88/)
 3. [移动端H5网页开发常见问题汇总](https://juejin.cn/post/7055599228478816270)
 4. [大厂实战出发，总结H5容器适配方案，不看你就亏了](https://juejin.cn/post/6844904185406701576)
+4. [2022 年移动端适配方案指南 — 全网最新最全](https://juejin.cn/post/7046169975706353701)
 5. [屏幕尺寸大全](https://uiiiuiii.com/screen/index.htm)
