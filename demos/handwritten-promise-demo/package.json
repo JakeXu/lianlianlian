@@ -1,0 +1,17 @@
+{
+  "name": "handwritten-promise-demo",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "promises-aplus-tests src/index.js",
+    "test-es6": "promises-aplus-tests src/index-es6.js",
+    "jest": "jest"
+  },
+  "author": "Jake Xu",
+  "license": "MIT",
+  "devDependencies": {
+    "promises-aplus-tests": "2.1.2",
+    "request": "2.88.2"
+  }
+}
